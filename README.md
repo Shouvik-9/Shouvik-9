@@ -10,7 +10,6 @@
 - 🔭 I’m currently studying **Computer Science**
 - 🌱 I’m currently learning **C, C++, Python**
 - 📫 How to reach me **duttashouvik80@gmail.com**
-- ⚡ Fun fact **I think I am funny 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
