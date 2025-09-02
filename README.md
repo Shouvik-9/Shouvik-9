@@ -43,6 +43,11 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+<p align="center">
+ <img src="https://github.com/iamarghamallick/iamarghamallick/blob/main/assets/Cool.gif">
+</p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 # <img src="https://em-content.zobj.net/source/microsoft-teams/363/sun-behind-cloud_26c5.png" alt="Outdoors" width="40" /> My Socials
 
 > I'm actively involved across various platforms — learning, building, sharing progress, and exploring new tools. I've tried out a wide range of technologies and communities, which has helped me develop a solid understanding across multiple domains. Whether it's content creation or just experimenting, I'm always eager to grow and contribute.
