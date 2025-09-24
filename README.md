@@ -38,8 +38,8 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-| ![Shouvik Dutta GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shouvik-9&rank_icon=percentile&show_icons=true&theme=radical&show=reviews&border_radius=8) | ![Shouvik Dutta GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shouvik-9&theme=radical&border_radius=8) |
-| -- | -- |
+| ![Shouvik Dutta GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shouvik-9&rank_icon=percentile&show_icons=true&theme=radical&show=reviews&border_radius=8) 
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
