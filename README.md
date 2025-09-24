@@ -48,6 +48,14 @@
 </p>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+# Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
+
+| Projects | Deployed Link | Repository | Tech Stack & Tools |
+|:---------|:-------------:|:----------:|:-------------------|
+| Hotel Management System | [view](https://hms-by82.onrender.com/) | [view](https://github.com/Shouvik-9/Hotel-Management-System.git) | `HTML` `CSS3` `JavaScript` `Node.js` `Express.js` `npm` `MongoDB` | 
+| Weather App | [view](https://weather-app-jvlw.vercel.app/) | [view](https://github.com/Shouvik-9/Weather-App.git) | `HTML` `CSS3` `JavaScript` `React.js` `Vite` `npm`| 
+<br>
+
 # <img src="https://em-content.zobj.net/source/microsoft-teams/363/sun-behind-cloud_26c5.png" alt="Outdoors" width="40" /> My Socials
 
 > I'm actively involved across various platforms — learning, building, sharing progress, and exploring new tools. I've tried out a wide range of technologies and communities, which has helped me develop a solid understanding across multiple domains. Whether it's content creation or just experimenting, I'm always eager to grow and contribute.
