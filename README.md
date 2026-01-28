@@ -7,7 +7,7 @@
 </p>
 
 - ❤️ I'm Currently Persuing my B Tech in **Computer Science and Engineering (CSE)**
-- 🌱 I’m currently learning **C, C++, Java**
+- 🌱 I’m currently learning **C, Java, Python**
 - 📫 How to reach me **duttashouvik80@gmail.com**
 - 🔥🔥 Have a look at [**My Portfolio**](https://shouvik-9.github.io/Shouvik_PORTFOLIO/) and you can contact me from there! 🔥🔥
 
@@ -23,7 +23,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,react,mysql,github,vscode,linux" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,mysql,github,vscode,linux" />
   </a>
 </p>
   
