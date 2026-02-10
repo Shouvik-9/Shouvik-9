@@ -13,10 +13,19 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+## It's just a Mere Beginning🔥💥
+
+<p align="center">
+ <img width="1000" height="200" alt="Image" src="https://github.com/user-attachments/assets/6bc4e369-13c0-42b3-a0f6-40180699116b" />
+</p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shouvik-9&bg_color=161b22&color=32D0EC&line=443CE2&point=D95645&area=true&hide_border=true&hide_title=true" />
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 
