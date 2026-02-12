@@ -65,7 +65,7 @@
 | Full Stack Fashion-E-Commerce Web App | [view](https://glowthreads-frontend.vercel.app/) | [view](https://github.com/Shouvik-9/Full-Stack-Fashion-E-Commerce-Web-App.git) | `HTML` `CSS3` `JavaScript` `React.js` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `Multer` `Cloudinary` `Vite` `npm` `Vercel` `Git` `ESLint` | 
 | Hotel Management System | [view](https://hms-by82.onrender.com/) | [view](https://github.com/Shouvik-9/Hotel-Management-System.git) | `HTML` `CSS3` `JavaScript` `Node.js` `Express.js` `npm` `MongoDB` | 
 | Weather App | [view](https://weather-app-jvlw.vercel.app/) | [view](https://github.com/Shouvik-9/Weather-App.git) | `HTML` `CSS3` `JavaScript` `React.js` `Vite` `npm`| 
-| To-Do List | [view](todolist-three-xi.vercel.app/) | [view](https://github.com/Shouvik-9/To-Do-List.git) | `HTML5` `CSS3` `JavaScript(Vanilla JS)` `Web Storage API (Local Storage)` | 
+| To-Do List | [view](https://todolist-three-xi.vercel.app/) | [view](https://github.com/Shouvik-9/To-Do-List.git) | `HTML5` `CSS3` `JavaScript(Vanilla JS)` `Web Storage API (Local Storage)` | 
 <br>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
