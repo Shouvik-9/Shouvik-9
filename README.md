@@ -9,7 +9,7 @@
 - ❤️ I'm Currently Persuing my B Tech in **Computer Science and Engineering (CSE)**
 - 🌱 I’m currently learning **C, Java, Python**
 - 📫 How to reach me **duttashouvik80@gmail.com**
-- 🔥🔥 Have a look at [**My Portfolio**](https://shouvik-9.github.io/Shouvik_PORTFOLIO/) and you can contact me from there! 🔥🔥
+- 🔥🔥 Have a look at [**My Portfolio**](https://shouvik-dutta-portfolio.vercel.app/) and you can contact me from there! 🔥🔥
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
