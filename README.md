@@ -21,12 +21,6 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shouvik-9&bg_color=161b22&color=32D0EC&line=443CE2&point=D95645&area=true&hide_border=true&hide_title=true" />
-
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -36,6 +30,21 @@
   </a>
 </p>
   
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<h3 align="center">Actively Learning</h3>
+<p align="center">
+	<a href="https://shouvik-dutta-portfolio.vercel.app/" target="_blank">
+		<img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif">
+	</a>
+</p>
+<br>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shouvik-9&bg_color=161b22&color=32D0EC&line=443CE2&point=D95645&area=true&hide_border=true&hide_title=true" />
+
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <br>
@@ -77,7 +86,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="display: flex; align-items: center; gap: 10px;">
   <a href="https://www.linkedin.com/in/shouvik-dutta-990730267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shouvik dutta" height="30" width="40" />
   </a>
