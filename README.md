@@ -32,7 +32,15 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,mongodb,vite,mysql,aws,gcp,github,git,vscode,linux" />
   </a>
 </p>
-  
+
+<div align="center">
+	<a href="https://leetcode.com/u/Shouvik_92/" target="_blank">
+		<img alt="LeetCode-Stats" 
+		     src="https://leetcard.jacoblin.cool/Shouvik_92?theme=dark&font=Noto%20Sans%20Tagbanwa&ext=heatmap" 
+		     width="80%">
+	</a>
+</div>
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h3 align="center">Actively Learning</h3>
