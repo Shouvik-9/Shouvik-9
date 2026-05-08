@@ -74,7 +74,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <p align="center">
- <img src="https://github.com/iamarghamallick/iamarghamallick/blob/main/assets/Cool.gif">
+ <img src="./assets/Cool.gif" width="1000">
 </p>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
