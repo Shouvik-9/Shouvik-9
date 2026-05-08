@@ -24,6 +24,9 @@
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 
 <h3 align="left">Languages and Tools:</h3>
+<a href="https://leetcode.com/u/Shouvik_92/" target="_blank">
+    <img src="./assets/leetcode.png" alt="leetcode-profile"/>
+</a>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,mongodb,vite,mysql,aws,gcp,github,git,vscode,linux" />
