@@ -50,26 +50,43 @@
 	</a>
 </p>
 <br>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shouvik-9&bg_color=161b22&color=32D0EC&line=443CE2&point=D95645&area=true&hide_border=true&hide_title=true" />
+ 
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<br>
+## 📊 GitHub Analytics
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shouvik-9&show_icons=true&locale=en&layout=compact&theme=radical" alt="shouvik-9" />
-</p>
+<br/>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shouvik-9&theme=tokyonight&hide_border=true&background=060d1f&ring=00c6ff&fire=ff6b35&currStreakLabel=00c6ff&sideLabels=c9d1d9&dates=8b949e&sideNums=00c6ff" width="58%" alt="GitHub Streak"/>
+</div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<br/>
 
-| ![Shouvik Dutta GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shouvik-9&rank_icon=percentile&show_icons=true&theme=radical&show=reviews&border_radius=8) | ![Shouvik Dutta GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shouvik-9&theme=radical&border_radius=8) |
-| -- | -- |
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shouvik-9&theme=tokyonight" width="24%" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shouvik-9&theme=tokyonight" width="24%" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shouvik-9&theme=tokyonight" width="24%" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shouvik-9&theme=tokyonight&utcOffset=5.5" width="24%" alt="Productive Time"/>
+</div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shouvik-9&bg_color=060d1f&color=00c6ff&line=00c6ff&point=ff6b35&area=true&area_color=0a3d7a&hide_border=true&custom_title=Contribution+Activity" width="96%" alt="Activity Graph"/>
+</div>
+
+---
+
+## 📈 Contribution Overview
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shouvik-9&theme=tokyonight" width="96%" alt="Profile Summary"/>
+</div>
+
+---
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
